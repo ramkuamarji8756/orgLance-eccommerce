@@ -1,0 +1,24 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------< com.ecommerce:ecommerce >-----------------------
+[INFO] Building ecommerce 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[WARNING] The POM for org.springframework.boot:spring-boot-starter-security-test:jar:3.1.5 is missing, no dependency information available
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ ecommerce ---
+[INFO] Deleting F:\Eclipse workspace\ecom\ecommerce-website\target
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ ecommerce ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] Copying 0 resource from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.11.0:compile (default-compile) @ ecommerce ---
+[INFO] Changes detected - recompiling the module! :source
+[INFO] Compiling 40 source files with javac [debug release 17] to target\classes
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  5.432 s
+[INFO] Finished at: 2025-12-11T10:34:01+05:30
+[INFO] ------------------------------------------------------------------------
